@@ -16,6 +16,7 @@ files_of_paths = [
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
+    "templates/index.htm",
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
